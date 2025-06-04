@@ -1,6 +1,6 @@
 # Gulf-MHW-BottomOxygen Analysis Project
 
-## Overview
+## Overview (See `project-presentation/` for a complete research walkthrough)
 This project investigates the relationship between bottom oxygen gradients and marine heatwave (MHW) severity in the Gulf of Mexico from 1992 to 2023. The analysis uses NOAA OISSTv2.1 sea surface temperature data, WOA23 bottom oxygen data, and the m_mhw MATLAB toolbox to detect and analyze MHW days across the region.
 
 The main goals are:
