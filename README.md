@@ -35,9 +35,9 @@ Gulf-MHW-BottomOxygen/
 - m_mhw toolbox: [GitHub](https://github.com/ZijieZhaoMMHW/m_mhw1.0?tab=readme-ov-file)
 
 ### Usage
-1. Clone the repository:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Gulf-MHW-BottomOxygen.git
+   git clone https://github.com/juliarenner/Gulf-MHW-BottomOxygen.git
    ```
 2. Download the required data files:
 - Sea Surface Temperature (OISSTv2.1): https://www.ncei.noaa.gov/products/optimum-interpolation-sst
