@@ -12,7 +12,7 @@ clear
 close all
 clc
 
-addpath('/Users/julia/CD&A-MHW-Project')
+addpath('/Users/julia/CD&A-MHW-Project')  % Replace with respective path to your workspace with data files and detection algorithm
 
 %% Gulf of Mexico SST data loading
 
