@@ -48,8 +48,7 @@ Gulf-MHW-BottomOxygen/
 - Download from GitHub: https://github.com/ZijieZhaoMMHW/m_mhw1.0
 4. Open MATLAB and navigate to the `script/` directory.
 5. Open `MHW_BottomOxygen_Analysis.m` and run the script to reproduce the analysis and generate plots.
-  - Image references in plot-images/
-
+  
 ---
 
 ## Outputs
