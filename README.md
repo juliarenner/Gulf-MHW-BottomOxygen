@@ -59,7 +59,7 @@ The analysis produces:
 - Scatterplot showing relationship between bottom oxygen and MHW days
 - Boxplots comparing coastal and offshore regions for both bottom oxygen and MHW days
 
-These are present in the `images/` directory.
+These are present in the `plot-images/` directory.
 
 ---
 
