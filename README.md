@@ -39,8 +39,16 @@ Gulf-MHW-BottomOxygen/
    ```bash
    git clone https://github.com/yourusername/Gulf-MHW-BottomOxygen.git
    ```
-2. Open MATLAB and navigate to the `script/` directory.
-3. Open `MHW_BottomOxygen_Analysis.m` and run the script to reproduce the analysis and generate plots.
+2. Download the required data files:
+- Sea Surface Temperature (OISSTv2.1): https://www.ncei.noaa.gov/products/optimum-interpolation-sst
+   - Save as OISSTv2p1_Gulf.nc
+- Bottom Oxygen Data (WOA23): https://www.ncei.noaa.gov/access/world-ocean-atlas-2023/
+   - Save as 1_woa23_all_o00_01.nc
+3. Install the MATLAB m_mhw toolbox (for marine heatwave detection):
+- Download from GitHub: https://github.com/ZijieZhaoMMHW/m_mhw1.0
+4. Open MATLAB and navigate to the `script/` directory.
+5. Open `MHW_BottomOxygen_Analysis.m` and run the script to reproduce the analysis and generate plots.
+- Reference results in plot-images/
 
 ---
 
