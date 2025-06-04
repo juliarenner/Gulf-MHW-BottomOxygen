@@ -47,8 +47,8 @@ Gulf-MHW-BottomOxygen/
 3. Install the MATLAB m_mhw toolbox (for marine heatwave detection):
 - Download from GitHub: https://github.com/ZijieZhaoMMHW/m_mhw1.0
 - Save to your script directory
-4. Open the 'detect.m' file inside the mhw_mhw1.0 download, and within the 'if' loop from lines 145-156, wrap each instance of 'ahead_date' in 'round()' calls
-4. Open MATLAB and navigate to the `script/` directory.
+4. In MATLAB, open the 'detect.m' file inside the mhw_mhw1.0 folder download, and within the 'if' loop from lines 145-156, wrap each instance of 'ahead_date' in 'round()'
+4. Navigate to the `script/` directory.
 5. Open `MHW_BottomOxygen_Analysis.m` and run the script to reproduce the analysis and generate plots.
   
 ---
