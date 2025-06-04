@@ -1,6 +1,5 @@
 % Julia Renner 
-% Marine Heatwaves & Ocean Hypoxia Project
-% Climate Data & Analysis
+% Climate Data & Analysis Project
 % Spring, 2025
 
 % Project Title: Exploring the Influence of Bottom Oxygen Gradients on 
