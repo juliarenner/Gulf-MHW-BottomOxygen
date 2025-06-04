@@ -21,7 +21,7 @@ Gulf-MHW-BottomOxygen/
 ├── project-presentation
 │   └── slideshow-captioned.pdf
 ├── script/
-│   └── gulf-mhw-bottomoxygen-analysis.m
+│   └── gulfMHWanalysis.m
 └── LICENSE
 └── README.md
 ```
