@@ -32,6 +32,8 @@ Gulf-MHW-BottomOxygen/
 
 ### Prerequisites
 - MATLAB (R2021a or later recommended)
+- Statistics and Machine Learning Toolbox (for regression, t-tests, and correlations)
+- Mapping Toolbox (for plotting coastlines)
 - m_mhw toolbox: [GitHub](https://github.com/ZijieZhaoMMHW/m_mhw1.0?tab=readme-ov-file)
 
 ### Usage
