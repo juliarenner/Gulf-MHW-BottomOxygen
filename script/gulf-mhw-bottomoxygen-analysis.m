@@ -12,7 +12,8 @@ clear
 close all
 clc
 
-addpath('/Users/julia/CD&A-MHW-Project')  % Replace with respective path to your script directory including data files and detection algorithm
+% Replace the following line with your respective path to repo folder including the script, data files, and detection algorithm
+addpath('/Users/julia/CD&A-MHW-Project')
 
 %% Gulf of Mexico SST data loading
 
