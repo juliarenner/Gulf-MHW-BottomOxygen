@@ -23,7 +23,7 @@ Gulf-MHW-BottomOxygen/
 ├── script/
 │   └── MHW_BottomOxygen_Analysis.m
 └── LICENSE
-├── README.md
+└── README.md
 ```
 
 ---
