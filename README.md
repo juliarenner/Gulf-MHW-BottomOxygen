@@ -7,7 +7,7 @@ The main goals are:
 - Explore how bottom oxygen levels may influence the severity and distribution of marine heatwaves based on historical data.
 - Conduct statistical tests and produce visualizations to support analysis.
 
-*(See `project-presentation/` for a complete research walkthrough)*
+***(See `project-presentation/` for a complete research walkthrough!)***
 
 ---
 
