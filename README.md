@@ -12,18 +12,18 @@ The main goals are:
 ## Repository Structure
 ```
 Gulf-MHW-BottomOxygen/
-├── README.md
-├── LICENSE
-├── data/
-├── images/
-│   ├── bottom_oxygen_map.png
-│   ├── total_mhw_days_map.png
-│   ├── scatterplot_mhw_vs_oxygen.png
-│   ├── boxplot_mhw_days.png
-│   └── boxplot_bottom_oxygen.png
+├── plot-images/
+│   ├── BottomOxygenCoastalvsOffshore.jpg
+│   ├── InterpolatedBottomOxygen.jpg
+│   ├── TotalMarineHeatwaveDays.jpg
+│   ├── TotalMarineHeatwaveDaysCoastalvsOffshore.jpg
+│   └── TotalMarineHeatwaveDaysvsBottomOxygenLevels.jpg
+├── project-presentation
+│   └── slideshow-captioned.pdf
 ├── script/
 │   └── MHW_BottomOxygen_Analysis.m
-└── .gitignore
+└── LICENSE
+├── README.md
 ```
 
 ---
